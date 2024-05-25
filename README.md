@@ -23,6 +23,32 @@ Google Drive: [Anita Dataset](https://drive.google.com/drive/folders/1J9J9Q6J9J9
 
 Feel free to download and explore by yourself.
 
+## File Structure
+
+```bash
+Anita_Dataset
+├── Mirror
+│   ├── scene_1
+│   │   ├── sketch
+│   │   │   ├── 0001.png
+│   │   │   ├── 0002.png
+│   │   │   ├── ...
+│   │   ├── color
+│   │   │   ├── 0001.png
+│   │   │   ├── 0002.png
+│   │   │   ├── ...
+│   │   ├── composition
+│   │   │   ├── 0001.png
+│   │   │   ├── 0002.png
+│   │   │   ├── ...
+│   ├── scene_2
+│   │   ├── ...
+├── Embrace_Freedom
+│   ├── scene_1
+│   │   ├── sketch
+│   │   │   ├── ...
+```
+
 ## Information
 
 | Preview | Artist(A-Z)  | Animation         | Keyframe | Sketch Clip | Color Clip | Composition Clip |
