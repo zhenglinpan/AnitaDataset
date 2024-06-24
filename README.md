@@ -87,7 +87,7 @@ For more Information, please refer to [Q&A](#qa) section.
 
 ##  <img src="./assets/icon.png" alt="Icon" width="20" height="20"> Download
 
-You can download the dataset from the [Google Drive link(7.14G)](https://drive.google.com/drive/folders/1J9J9Q6J9J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6). Feel free to download and explore it!
+You can download the dataset from the [Google Drive link(7.14G)](https://drive.google.com/file/d/1ctfD0sMpT2pVutJUOlyEYKhAxufMYmZ_/view?usp=sharing). Feel free to download and explore it!
 
 ## Information
 
