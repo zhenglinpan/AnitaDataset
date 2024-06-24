@@ -9,7 +9,7 @@
 
 This is the official repository for the Anita Dataset. 
 
-Anita Dataset is a professional cartoon keyframe collection that provides high-quality hand-drawings from various animators. The dataset contains 17,000+ keyframe of itermidiate format used at standards of modern animation industry, including 1080P `sketches`, `color` images and `compositions`. 
+Anita Dataset is a professional cartoon keyframe collection that provides high-quality hand-drawings from various animators. The dataset contains over 17,000 keyframes in intermediate formats used according to the standards of the modern animation industry, including 1080P `sketches`, `color` images and `compositions`. 
 
 
 
@@ -21,15 +21,15 @@ Anita Dataset is a professional cartoon keyframe collection that provides high-q
 <a href="https://youtu.be/k_nwXkyXaHc" align="center">Video Introduction</a>
 </div>
 
-Anita Dataset contains 17,000+ `.png` image sequence from 14 different cartoons, licensed by animators under [`CC BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) and [`CC BY`](https://creativecommons.org/licenses/by/4.0/deed.en) License. 
+Anita Dataset contains over 17,000 `.png` image sequence from 14 different cartoons, licensed by animators under [`CC BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) and [`CC BY`](https://creativecommons.org/licenses/by/4.0/deed.en) License. 
 
 <div align="center">
 <img src="./assets/statistics.png" style="width: 75%;" alt="image">
 </div>
 
-We design this dataset to facilitate cartoon research like inbetweening and colorization, researchers can use the dataset to train and evaluate their models.
+We designed this dataset to facilitate cartoon research, such as inbetweening and colorization. Researchers can use the dataset to train and evaluate their models.
 
-For More Information, please refer to [Q&A](#qa) section.
+For more Information, please refer to [Q&A](#qa) section.
 
 
 ##  <img src="./assets/icon.png" alt="Icon" width="20" height="20"> Download
@@ -87,20 +87,20 @@ Anita_Dataset
 
 #### What is Anita Dataset different from other cartoon datasets?
 
-- **Hand-drawn**: Unlike [AnimeRun](https://github.com/lisiyao21/AnimeRun) or [PBC](https://github.com/ykdai/BasicPBC), which are rendered from 3D character models, Anita Dataset consists of frames drawn by human hands, more aligned with the standards of modern 2D animation industry.
+- **Hand-drawn**: Unlike [AnimeRun](https://github.com/lisiyao21/AnimeRun) or [PBC](https://github.com/ykdai/BasicPBC), which are rendered from 3D character models, Anita Dataset consists of frames drawn by human hands, aligning more closely with the standards of the modern 2D animation industry.
 
-- **High-quality Intermediate Format**: Compared to [Sakuga-42M Dataset](https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view) which provides large-scale but 480P, rendered clips, Anita Dataset provides high-resolution intermediate images, more than 17,000 sketch or flat color under 1080P resolution are provided.
+- **High-quality Intermediate Format**: Compared to [Sakuga-42M Dataset](https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view), which provides large-scale but 480p rendered clips, Anita Dataset offers high-resolution intermediate images. More than 17,000 sketches or flat colors are provided in 1080p resolution.
 
 - **Pairness** : Anita Dataset contains sketch-color pairs exported directly from engineering files.
 
 #### Is the dataset licensed? 
-- Yes. Anita Dataset is a licensed dataset. Animations are obtained with permission from the artists directly or with specific previous public license. 
+- Yes. Anita Dataset is a licensed dataset. Animations are obtained with permission from the artists directly or with a specific previous public license.
 
 #### Are there annotations provided ?
-- No. If researchers need annotations, they can create their own annotations based on the dataset.
+- No. If researchers need annotations, they can create their own based on the dataset.
 
 #### Is the sketch and color image paired?
-- Some of them are paired, some of them are not. Researchers can pair them based on the folder name.
+- Some of them are paired, and some are not. Researchers can pair them based on the folder name.
 
 #### Will the dataset be updated?
 - Yes. The dataset is an ongoing project and will be updated to include more available animations.
