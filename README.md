@@ -49,7 +49,7 @@ Anita Dataset contains over 16,000 `.png` image sequence from 14 different carto
     <td width=33.3% style="border: none"><img src="./assets/061_1_fps10.gif"></td>
 </tr>
 <tr style="text-align: center;">
-    <td width=33.3% style="border: none">Example 2 - sketch</td>
+    <td width=33.3% style="border: none">Example 2 - Sketch</td>
     <td width=33.3% style="border: none">Example 2 - Composition</td>
 </tr>
 </table>
@@ -60,7 +60,7 @@ Anita Dataset contains over 16,000 `.png` image sequence from 14 different carto
     <td width=33.3% style="border: none"><img src="./assets/0101_1_fps10.gif"></td>
 </tr>
 <tr style="text-align: center;">
-    <td width=33.3% style="border: none">Example 3 - sketch</td>
+    <td width=33.3% style="border: none">Example 3 - Sketch</td>
     <td width=33.3% style="border: none">Example 3 - Color</td>
 </tr>
 </table>
@@ -71,8 +71,8 @@ Anita Dataset contains over 16,000 `.png` image sequence from 14 different carto
     <td width=33.3% style="border: none"><img src="./assets/00141_1_fps10.gif"></td>
 </tr>
 <tr style="text-align: center;">
-    <td width=33.3% style="border: none">Example 2: sketch</td>
-    <td width=33.3% style="border: none">Example 2: Color</td>
+    <td width=33.3% style="border: none">Example 4 - Sketch</td>
+    <td width=33.3% style="border: none">Example 4 - Color</td>
 </tr>
 </table>
 
