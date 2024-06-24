@@ -1,5 +1,9 @@
-<h1 align="center"><img src="./assets/icon.png" alt="Icon" width="32" height="32"> Anita Dataset</h1>
-<h3 align="center">An Industrial Animation Dataset</h3>
+<h1 align="center"><img src="./assets/icon.png" alt="Icon" width="32" height="32"> Anita Dataset - An Industrial Animation Dataset</h1>
+
+<div align="center">
+<a href="https://zhenglinpan.github.io/homepage/">Zhenglin Pan</a>,
+<a href="https://github.com/UNKNOWNTIMER">Yu Zhu</a>
+</div>
 
 ---
 
@@ -9,19 +13,17 @@
 
 This is the official repository for the Anita Dataset. 
 
+[Video Introduction](https://youtu.be/k_nwXkyXaHc)
+
 Anita Dataset is a professional cartoon keyframe collection that provides high-quality hand-drawings from various animators. The dataset contains over 16,000 keyframes in intermediate formats used according to the standards of the modern animation industry, including 1080P `sketches`, `color` images and `compositions`. 
 
 ![image](./assets/intro.png)
 
-<div align="center">
-<a href="https://youtu.be/k_nwXkyXaHc" align="center">Video Introduction</a>
-</div>
-
 Anita Dataset contains over 16,000 `.png` image sequence from 14 different cartoons, licensed by animators under [`CC BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) and [`CC BY`](https://creativecommons.org/licenses/by/4.0/deed.en) License. 
 
 <div align="center">
-<img src="./assets/collage.png" style="width: 75%;" alt="image">
-<img src="./assets/statistics.png" style="width: 75%;" alt="image">
+<img src="./assets/collage.png" style="width: 100%;" alt="image">
+<img src="./assets/statistics.png" style="width: 50%;" alt="image">
 </div>
 
 We designed this dataset to facilitate cartoon research, such as inbetweening and colorization. Researchers can use the dataset to train and evaluate their models.
@@ -45,7 +47,7 @@ You can download the dataset from the [Google Drive link(7.14G)](https://drive.g
 | ![image](./assets/practice_zixu.jpg)       | [秄虚](https://space.bilibili.com/30760830)     | [Zixu's 2023 Reels](https://www.bilibili.com/video/BV1pu4y1M7vQ/) | 1,079    | 9           | 3          | 3                | CC BY-NC-SA 4.0|
 | ![image](./assets/pirate.jpg)       | [Sergi Miranda](https://www.instagram.com/miranda.sergi/)     | [Pirate](http://www.sergimiranda.com/) | 618    |  1          |  1         |  1               | [CC BY](https://cloud.blender.org/p/gallery/5edd13a01e5ba50266481719) |
 | ![image](./assets/lma_test.png)       | [Renato Roldan](https://www.instagram.com/renato3xl/)     | [LMA test](https://vimeo.com/316551360) | 570    | 1           | 1          |  1               | [CC BY](https://cloud.blender.org/p/gallery/5cb45931808c0e42c75ba18d) |
-| ![image](./assets/explosion.png)       | [Nahu](https://x.com/Nahu_idi)     | [Explosion](https://cloud.blender.org/p/gallery/5daa438e07ad1b4dd6f36cd6) | 34    |   1         |   1        |   0              | [CC BY]((https://cloud.blender.org/p/gallery/5daa438e07ad1b4dd6f36cd6)) |
+| ![image](./assets/explosion.png)       | [Nahu](https://x.com/Nahu_idi)     | [Explosion](https://cloud.blender.org/p/gallery/5daa438e07ad1b4dd6f36cd6) | 34    |   1         |   1        |   0              | [CC BY](https://cloud.blender.org/p/gallery/5daa438e07ad1b4dd6f36cd6) |
 | ![image](./assets/hero.png)       | [Daniel Martinez Lara ](http://pepeland.com/)    | [Hero](https://studio.blender.org/films/hero/) | 1,797    |  8          |   8        |   8              | [CC BY](https://cloud.blender.org/p/gallery/5b684e96bf419c4d7bd0ec26) |
 | ![image](./assets/sierra_dragon.png)       | [Pepe Sanchez](https://www.facebook.com/profile.php?id=100071832591529)     | [Sierra Dragon](https://www.facebook.com/watch/?v=601878917271995) | 60    | 1           |  1         |  1               | [CC BY](https://cloud.blender.org/p/gallery/612412fb92d84ca3d667c874) |
 | ![image](./assets/dance.png)       | [Lien-ze, Tsao](https://www.youtube.com/@LienzeTsao)     | [Dance](https://www.youtube.com/watch?v=WejpIdss__M&ab_channel=Lien-zeTsao) | 336    |  1          |  1         |  1               | [CC BY](https://cloud.blender.org/p/gallery/5bf6dfb05ae99900f6bb6cd7) |
