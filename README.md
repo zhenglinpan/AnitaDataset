@@ -17,12 +17,66 @@ This is the official repository for the Anita Dataset.
 
 Anita Dataset is a professional cartoon keyframe collection that provides high-quality hand-drawings from various animators. The dataset contains over 16,000 keyframes in intermediate formats used according to the standards of the modern animation industry, including 1080P `sketches`, `color` images and `compositions`. 
 
-![image](./assets/intro.png)
+<table class="center">
+<tr>
+    <td width=33.3% style="border: none"><img src="./assets/011_1_fps10.gif"></td>
+    <td width=33.3% style="border: none"><img src="./assets/021_1_fps10.gif"></td>
+    <td width=33.3% style="border: none"><img src="./assets/00121_1_fps10.gif"></td>
+</tr>
+<tr style="text-align: center;">
+    <td width=33.3% style="border: none">Sketch</td>
+    <td width=33.3% style="border: none">Color</td>
+    <td width=33.3% style="border: none">Composition</td>
+</tr>
+</table>
 
 Anita Dataset contains over 16,000 `.png` image sequence from 14 different cartoons, licensed by animators under [`CC BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) and [`CC BY`](https://creativecommons.org/licenses/by/4.0/deed.en) License. 
 
+<table class="center">
+<tr>
+    <td width=33.3% style="border: none"><img src="./assets/00151_1_fps10.gif"></td>
+    <td width=33.3% style="border: none"><img src="./assets/00161_1_fps10.gif"></td>
+</tr>
+<tr style="text-align: center;">
+    <td width=33.3% style="border: none">Example 1 - Sketch</td>
+    <td width=33.3% style="border: none">Example 1 - Color</td>
+</tr>
+</table>
+
+<table class="center">
+<tr>
+    <td width=33.3% style="border: none"><img src="./assets/051_1_fps10.gif"></td>
+    <td width=33.3% style="border: none"><img src="./assets/061_1_fps10.gif"></td>
+</tr>
+<tr style="text-align: center;">
+    <td width=33.3% style="border: none">Example 2 - sketch</td>
+    <td width=33.3% style="border: none">Example 2 - Composition</td>
+</tr>
+</table>
+
+<table class="center">
+<tr>
+    <td width=33.3% style="border: none"><img src="./assets/091_1_fps10.gif"></td>
+    <td width=33.3% style="border: none"><img src="./assets/0101_1_fps10.gif"></td>
+</tr>
+<tr style="text-align: center;">
+    <td width=33.3% style="border: none">Example 3 - sketch</td>
+    <td width=33.3% style="border: none">Example 3 - Color</td>
+</tr>
+</table>
+
+<table class="center">
+<tr>
+    <td width=33.3% style="border: none"><img src="./assets/00131_1_fps10.gif"></td>
+    <td width=33.3% style="border: none"><img src="./assets/00141_1_fps10.gif"></td>
+</tr>
+<tr style="text-align: center;">
+    <td width=33.3% style="border: none">Example 2: sketch</td>
+    <td width=33.3% style="border: none">Example 2: Color</td>
+</tr>
+</table>
+
 <div align="center">
-<img src="./assets/collage.png" style="width: 100%;" alt="image">
 <img src="./assets/statistics.png" style="width: 50%;" alt="image">
 </div>
 
