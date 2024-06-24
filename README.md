@@ -87,7 +87,13 @@ For more Information, please refer to [Q&A](#qa) section.
 
 ##  <img src="./assets/icon.png" alt="Icon" width="20" height="20"> Download
 
-You can download the dataset from the [Google Drive link(7.14G)](https://drive.google.com/file/d/1ctfD0sMpT2pVutJUOlyEYKhAxufMYmZ_/view?usp=sharing). Feel free to download and explore it!
+We provide two download links for the Anita Dataset:
+
+[Google Drive](https://drive.google.com/file/d/1ctfD0sMpT2pVutJUOlyEYKhAxufMYmZ_/view?usp=sharing)
+
+[百度网盘](链接：https://pan.baidu.com/s/1uo9W4sO9oAlnlxp9h4fw-A?pwd=anit)
+
+The file size of current Anita Dataset is `7.14G`, feel free to download and explore it!
 
 ## Information
 
@@ -162,7 +168,7 @@ Anita_Dataset
 If you find this dataset useful, please consider citing our work:
 
 ```bibtex
-@misc{WinNT,
+@misc{Anita2024,
   title = {Anita Dataset},
   howpublished = {https://github.com/zhenglinpan/AnitaDataset},
   note = {Accessed: 20124-06-24}
