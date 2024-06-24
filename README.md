@@ -9,21 +9,18 @@
 
 This is the official repository for the Anita Dataset. 
 
-Anita Dataset is a professional cartoon keyframe collection that provides high-quality hand-drawings from various animators. The dataset contains over 17,000 keyframes in intermediate formats used according to the standards of the modern animation industry, including 1080P `sketches`, `color` images and `compositions`. 
-
-
-
-![image](./assets/collage.jpg)
+Anita Dataset is a professional cartoon keyframe collection that provides high-quality hand-drawings from various animators. The dataset contains over 16,000 keyframes in intermediate formats used according to the standards of the modern animation industry, including 1080P `sketches`, `color` images and `compositions`. 
 
 ![image](./assets/intro.png)
-<div align="center">
 
+<div align="center">
 <a href="https://youtu.be/k_nwXkyXaHc" align="center">Video Introduction</a>
 </div>
 
-Anita Dataset contains over 17,000 `.png` image sequence from 14 different cartoons, licensed by animators under [`CC BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) and [`CC BY`](https://creativecommons.org/licenses/by/4.0/deed.en) License. 
+Anita Dataset contains over 16,000 `.png` image sequence from 14 different cartoons, licensed by animators under [`CC BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) and [`CC BY`](https://creativecommons.org/licenses/by/4.0/deed.en) License. 
 
 <div align="center">
+<img src="./assets/collage.jpg" style="width: 75%;" alt="image">
 <img src="./assets/statistics.png" style="width: 75%;" alt="image">
 </div>
 
@@ -34,17 +31,17 @@ For more Information, please refer to [Q&A](#qa) section.
 
 ##  <img src="./assets/icon.png" alt="Icon" width="20" height="20"> Download
 
-You can download the dataset from the [Google Drive link](https://drive.google.com/drive/folders/1J9J9Q6J9J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6). The file size is  Feel free to download and explore it!
+You can download the dataset from the [Google Drive link(7.14G)](https://drive.google.com/drive/folders/1J9J9Q6J9J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6). Feel free to download and explore it!
 
 ## Information
 
 | Preview | Artist(A-Z)  | Animation         | Keyframe | Sketch Clip | Color Clip | Composition Clip | License |
 |--------|--------------|-------------------|----------|-------------|------------|------------------|----|
 | ![image](./assets/mirror.png)       | [剑起长歌魂断蓝桥](https://space.bilibili.com/66637481) | [Mirror](https://www.bilibili.com/video/BV1fo4y1x7Kf)            | 1,098    | 15          | 15         | 0                | CC BY-NC-SA 4.0 |
-| ![image](./assets/embrace_freedom.jpg)       | [日勿广隶](https://space.bilibili.com/106188541)      | [Embrace Freedom](https://www.bilibili.com/video/BV15P41167Xr)   | 7,341    | 58          | 0          | 1                | CC BY-NC-SA 4.0|
+| ![image](./assets/embrace_freedom.jpg)       | [日勿广隶](https://space.bilibili.com/106188541)      | [Embrace Freedom](https://www.bilibili.com/video/BV15P41167Xr)   | 5,338    | 58          | 0          | 1                | CC BY-NC-SA 4.0|
 | ![image](./assets/dogmatism.jpg)       | [_嘲讽怪_](https://space.bilibili.com/17377005)     | [Dogmatism](https://www.bilibili.com/video/BV1Ct4y1x7hd/)         | 3,559    | 12          | 7          | 0                | CC BY-NC-SA 4.0|
-| ![image](./assets/hope.png)       | [ONE_XT](https://space.bilibili.com/11558936)   | [Hope](https://www.bilibili.com/video/BV1XS4y187rP/)              | 1,505    | 69          | 63         | 0                | CC BY-NC-SA 4.0|
-| ![image](./assets/polaris.png)       | [ONE_XT](https://space.bilibili.com/11558936)   | [Polaris](https://www.bilibili.com/video/BV1Ki4y1a79S/)           | 616      | 34          | 34         | 0                | CC BY-NC-SA 4.0|
+| ![image](./assets/hope.png)       | [ONE_XT](https://space.bilibili.com/11558936)   | [Hope](https://www.bilibili.com/video/BV1XS4y187rP/)              | 1,478    | 69          | 63         | 0                | CC BY-NC-SA 4.0|
+| ![image](./assets/polaris.png)       | [ONE_XT](https://space.bilibili.com/11558936)   | [Polaris](https://www.bilibili.com/video/BV1Ki4y1a79S/)           | 586      | 34          | 34         | 0                | CC BY-NC-SA 4.0|
 | ![image](./assets/practice_zixu.jpg)       | [秄虚](https://space.bilibili.com/30760830)     | [Zixu's 2023 Reels](https://www.bilibili.com/video/BV1pu4y1M7vQ/) | 1,079    | 9           | 3          | 3                | CC BY-NC-SA 4.0|
 | ![image](./assets/pirate.jpg)       | [Sergi Miranda](https://www.instagram.com/miranda.sergi/)     | [Pirate](http://www.sergimiranda.com/) | 618    |  1          |  1         |  1               | [CC BY](https://cloud.blender.org/p/gallery/5edd13a01e5ba50266481719) |
 | ![image](./assets/lma_test.png)       | [Renato Roldan](https://www.instagram.com/renato3xl/)     | [LMA test](https://vimeo.com/316551360) | 570    | 1           | 1          |  1               | [CC BY](https://cloud.blender.org/p/gallery/5cb45931808c0e42c75ba18d) |
@@ -89,7 +86,7 @@ Anita_Dataset
 
 - **Hand-drawn**: Unlike [AnimeRun](https://github.com/lisiyao21/AnimeRun) or [PBC](https://github.com/ykdai/BasicPBC), which are rendered from 3D character models, Anita Dataset consists of frames drawn by human hands, aligning more closely with the standards of the modern 2D animation industry.
 
-- **High-quality Intermediate Format**: Compared to [Sakuga-42M Dataset](https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view), which provides large-scale but 480p rendered clips, Anita Dataset offers high-resolution intermediate images. More than 17,000 sketches or flat colors are provided in 1080p resolution.
+- **High-quality Intermediate Format**: Compared to [Sakuga-42M Dataset](https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view), which provides large-scale but 480p rendered clips, Anita Dataset offers high-resolution intermediate images. More than 16,000 sketches or flat colors are provided in 1080p resolution.
 
 - **Pairness** : Anita Dataset contains sketch-color pairs exported directly from engineering files.
 
