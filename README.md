@@ -20,7 +20,7 @@ Anita Dataset is a professional cartoon keyframe collection that provides high-q
 Anita Dataset contains over 16,000 `.png` image sequence from 14 different cartoons, licensed by animators under [`CC BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) and [`CC BY`](https://creativecommons.org/licenses/by/4.0/deed.en) License. 
 
 <div align="center">
-<img src="./assets/collage.jpg" style="width: 75%;" alt="image">
+<img src="./assets/collage.png" style="width: 75%;" alt="image">
 <img src="./assets/statistics.png" style="width: 75%;" alt="image">
 </div>
 
