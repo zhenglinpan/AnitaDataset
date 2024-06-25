@@ -148,6 +148,9 @@ Anita_Dataset
 
 ##  <img src="./assets/icon.png" alt="Icon" width="20" height="20"> Q&A
 
+#### Does the Anita Dataset have any related publications?
+No. Anita Dataset does not have an associated research paper. But researchers are welcome to use this dataset in their own studies. 
+
 #### What is Anita Dataset different from other cartoon datasets?
 
 - **Hand-drawn Authenticity**: Unlike [AnimeRun](https://github.com/lisiyao21/AnimeRun) or [PBC](https://github.com/ykdai/BasicPBC), which are rendered from 3D character models, Anita Dataset consists of frames drawn by human hands, aligning more closely with the standards of the modern 2D animation industry.
@@ -157,7 +160,7 @@ Anita_Dataset
 - **Sketch-Color Alignment** : Anita Dataset contains sketch-color pairs exported directly from engineering files.
 
 #### Is the dataset licensed? 
-- Yes. Anita Dataset is a licensed dataset. Animations are obtained with permission from the artists directly or with a specific previous public license.
+- Yes, the Anita Dataset is licensed. The animations included are obtained either directly from artists with permission or under specific public licenses. Academic researchers can use these images in their research without concerns about copyright infringement much.
 
 #### Are there annotations provided ?
 - No. If researchers need annotations, they can create their own based on the dataset.
@@ -165,10 +168,10 @@ Anita_Dataset
 #### Is the sketch and color image paired?
 - Some of them are paired, and some are not. Researchers can pair them based on the folder name.
 
-#### Will the dataset be updated?
+#### Will the dataset be updated in the future?
 - Yes. The dataset is an ongoing project and will be updated to include more available animations.
 
-##  Citation
+## <img src="./assets/icon.png" alt="Icon" width="20" height="20">  Citation
 If you find this dataset useful, please consider citing our work:
 
 ```bibtex
