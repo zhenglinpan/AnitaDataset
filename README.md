@@ -160,7 +160,7 @@ No. Anita Dataset does not have an associated research paper. But researchers ar
 - **Sketch-Color Alignment** : Anita Dataset contains sketch-color pairs exported directly from engineering files.
 
 #### Is the dataset licensed? 
-- Yes, the Anita Dataset is licensed. The animations included are obtained either directly from artists with permission or under specific public licenses. Academic researchers can use these images in their research without concerns about copyright infringement much.
+- Yes, the Anita Dataset is licensed. The animations included are obtained either directly from artists with permission or under specific public licenses. 
 
 #### Are there annotations provided ?
 - No. If researchers need annotations, they can create their own based on the dataset.
