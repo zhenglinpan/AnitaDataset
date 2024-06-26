@@ -17,7 +17,7 @@
 
 ## <img src="./assets/icon.png" alt="Icon" width="20" height="20"> Introduction
 
-This is the official repository for the Anita Dataset. 
+This is the official repository for Anita Dataset. 
 
 Anita Dataset is a collection of 16,000+ professional hand-drawn cartoon keyframes. The dataset contains 1080P `sketch`, `color` images and `composition` exported from engineering files of 14 different animations(more than 200 scenes in total), following the professional standards of the modern 2D animation industry.
 
@@ -91,7 +91,7 @@ For more Information, please refer to [Q&A](#qa) section.
 
 ##  <img src="./assets/icon.png" alt="Icon" width="20" height="20"> Download
 
-We provide two download links for the Anita Dataset:
+We provide two download links for Anita Dataset:
 
 [Google Drive](https://drive.google.com/file/d/1ctfD0sMpT2pVutJUOlyEYKhAxufMYmZ_/view?usp=sharing)
 
@@ -146,7 +146,7 @@ Anita_Dataset
 
 ##  <img src="./assets/icon.png" alt="Icon" width="20" height="20"> Q&A
 
-#### Does the Anita Dataset have any related publications?
+#### Does Anita Dataset have any related publications?
 No. Anita Dataset does not have an associated research paper. But researchers are welcome to use this dataset in their own studies. 
 
 #### What is Anita Dataset different from other cartoon datasets?
@@ -158,7 +158,7 @@ No. Anita Dataset does not have an associated research paper. But researchers ar
 - **Sketch-Color Alignment** : Anita Dataset contains sketch-color pairs exported directly from engineering files.
 
 #### Is the dataset licensed? 
-- Yes, the Anita Dataset is licensed. The animations included are obtained either directly from artists with permission or under specific public licenses. 
+- Yes, Anita Dataset is licensed. The animations included are obtained either directly from artists with permission or under specific public licenses. 
 
 #### Are there annotations provided ?
 - No. If researchers need annotations, they can create their own based on the dataset.
