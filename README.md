@@ -19,8 +19,6 @@
 
 This is the official repository for the Anita Dataset. 
 
-[Video Introduction](https://youtu.be/k_nwXkyXaHc)
-
 Anita Dataset is a collection of 16,000+ professional hand-drawn cartoon keyframes. The dataset contains 1080P `sketch`, `color` images and `composition` exported from engineering files of 14 different animations(more than 200 scenes in total), following the professional standards of the modern 2D animation industry.
 
 <table class="center">
